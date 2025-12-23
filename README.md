@@ -1,1 +1,2 @@
-# Snyder-Institute.github.io
+# Bioinformatics Hub
+> at the Snyder Institute
